@@ -1,6 +1,7 @@
 /** @format */
 
 export default function HomePage() {
+  console.log("[HomePage]: Rendering");
   return (
     <>
       <h1>HOME PAGE</h1>
